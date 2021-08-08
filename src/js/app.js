@@ -63,7 +63,6 @@ const galleryItems = [
     description: 'Lighthouse Coast Sea',
   },
 ];
-
 const galleryList = document.querySelector('.js-gallery');
 const createItems = picturesGalleryMarkup(galleryItems);
 const modalWindow = document.querySelector('.js-lightbox');
